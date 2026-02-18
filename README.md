@@ -64,6 +64,11 @@ Scikit-learn
 
 Matplotlib / Seaborn
 
+## Tool Wear vs Failure Risk
+<img width="567" height="455" alt="wear_risk_outcome" src="https://github.com/user-attachments/assets/995a3972-b627-4f5f-a293-d57e6a0ea692" />
+
+
+## Predicted Risk Distribution
 <img width="571" height="455" alt="wear_risk" src="https://github.com/user-attachments/assets/e54010b8-c8e9-46b4-bbfc-328624c3776c" />
 
 
