@@ -12,8 +12,11 @@ AI4I 2020 Predictive Maintenance Dataset (Kaggle)
 Contains:
 
 Machine type (L, M, H)
+
 Sensor readings
+
 Tool wear
+
 Failure indicators
 
 🔎 Methodology
@@ -45,8 +48,12 @@ Failure risk increases significantly when high operational stress occurs in mach
 
 PostgreSQL
 SQL
+
 Python
+
 Pandas
+
 Scikit-learn
+
 Matplotlib / Seaborn
 
