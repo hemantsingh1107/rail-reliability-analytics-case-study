@@ -64,3 +64,6 @@ Scikit-learn
 
 Matplotlib / Seaborn
 
+<img width="571" height="455" alt="wear_risk" src="https://github.com/user-attachments/assets/e54010b8-c8e9-46b4-bbfc-328624c3776c" />
+
+
