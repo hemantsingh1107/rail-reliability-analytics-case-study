@@ -64,6 +64,10 @@ Scikit-learn
 
 Matplotlib / Seaborn
 
+## Project Workflow
+
+PostgreSQL → SQL Analysis → Python Modeling → Risk Scoring → Visualization
+
 ## Tool Wear vs Failure Risk
 <img width="567" height="455" alt="wear_risk_outcome" src="https://github.com/user-attachments/assets/995a3972-b627-4f5f-a293-d57e6a0ea692" />
 
