@@ -16,6 +16,7 @@ Tool wear
 Failure indicators
 
 🔎 Methodology
+
 1️⃣ SQL-Based Reliability Analysis
 Failure distribution analysis
 Machine-type risk comparison
