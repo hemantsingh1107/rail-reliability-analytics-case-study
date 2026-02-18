@@ -1,4 +1,6 @@
 Rail System Reliability & Failure Analytics
+End-to-end reliability analytics case study demonstrating SQL-based failure analysis and probability-driven risk scoring.
+
 📌 Project Overview
 
 This project analyzes predictive maintenance data to identify dominant failure drivers, quantify degradation risk, and develop probabilistic failure insights using SQL and Python.
