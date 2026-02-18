@@ -22,14 +22,21 @@ Failure indicators
 🔎 Methodology
 
 1️⃣ SQL-Based Reliability Analysis
+
 Failure distribution analysis
+
 Machine-type risk comparison
+
 Tool wear threshold segmentation
+
 Approximate MTBF estimation
 
 2️⃣ Predictive Modeling
+
 Logistic Regression
+
 Class imbalance handling
+
 Probability-based risk scoring
 
 📈 Key Findings
